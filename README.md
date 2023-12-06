@@ -10,3 +10,6 @@ My GitHub page is https://github.com/
     Lab 4 was my second favorite one because I learned how to write the code by using variables, initialization, arthimetic operators, input, output, if statements and relational operators. I learned about a testing called black box to make sure that my code is bug-free. I also learned how to use the make command statements to build and test my project.
 * Lab 8:
     Lab 8 was my third favorite because I learned how to write a loop through all the command-line arguments by skipping over the command name. I also learned how to validate a command-line argumentinput. This was mostly similar to all the previous labs. 
+$ git commit -a -m "Initial commit of my home page."
+$ git branch -m main
+$ git push -u origin main
