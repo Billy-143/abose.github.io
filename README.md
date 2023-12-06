@@ -2,7 +2,7 @@
 # Hello World 
 This is my home page! My name is Abinav Bose and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 ## Computer Science Projects
-My GitHub page is http://github.com/Billy-143@github.io.
+My GitHub page is https://github.com/
 ### CPSC 120
 * Lab 2:
     Lab 2 was my favorite one because I learned how to write the program and how to format it. I even learned how to clone a git repository from Github and make changes to it. I also learned how to edit it using text editor.
